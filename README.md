@@ -23,6 +23,7 @@ I'm a student developer interested in software engineering, defensive cybersecur
 ![C](https://img.shields.io/badge/C-172033?style=for-the-badge&logo=c&logoColor=a8b9cc)
 ![C%23](https://img.shields.io/badge/C%23-172033?style=for-the-badge&logo=sharp&logoColor=9b4fce)
 ![JavaScript](https://img.shields.io/badge/JavaScript-172033?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Lua](https://img.shields.io/badge/Lua-172033?style=for-the-badge&logo=lua&logoColor=2c2d72)
 ![HTML5](https://img.shields.io/badge/HTML5-172033?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-172033?style=for-the-badge&logo=css&logoColor=663399)
 
@@ -51,7 +52,7 @@ A **private, experimental, local-first defensive security project** focused on o
 
 ## Currently exploring
 
-- Improving Python, C, C#, HTML, CSS, and JavaScript skills.
+- Improving Python, C, C#, Lua, HTML, CSS, and JavaScript skills.
 - Designing maintainable tools and documenting technical decisions.
 - Defensive cybersecurity, networking, and Linux environments.
 - AI-assisted security workflows and game development.
